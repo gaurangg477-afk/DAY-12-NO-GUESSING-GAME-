@@ -75,3 +75,5 @@ It's small but a great confidence booster — and I'm improving day by day!
 🤝 Contributions
 Suggestions, improvements, or bug fixes are welcome!
 Feel free to open an issue or submit a pull request
+## Author
+Gaurang Sharma
